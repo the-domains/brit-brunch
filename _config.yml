@@ -1,6 +1,6 @@
 name: Brit Brunch
 favicon: null
-layout_spectrum: 0.9300871572922915
+layout_spectrum: 0.76232
 typography_spectrum: 0.7273429087363183
 title: a Brit who Brunches
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.037696477491408587
+  brandStrength: 0
   lightness: 0.13096079137176275
   saturation: 0.8070989102125168
   rhythmicContrast: 0.32569648046046495
