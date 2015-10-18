@@ -1,8 +1,7 @@
-layout_spectrum: 0.75528
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Brit Brunch
+favicon: null
+layout_spectrum: 0.4139
+typography_spectrum: 0.5376344
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: null
-  brandStrength: 0.5
-  lightness: null
   brandColors:
     - '#DFE1DF'
     - '#16395C'
     - '#B41814'
     - '#889199'
     - '#000417'
+  brandStrength: 0.5
+  lightness: null
+  saturation: null
   rhythmicContrast: null
-typography_spectrum: 0.5376344
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Brit Brunch
+purpose: []
