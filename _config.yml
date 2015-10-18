@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: null
+  brandStrength: 0.5
   lightness: null
   saturation: null
   rhythmicContrast: null
