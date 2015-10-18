@@ -4,8 +4,15 @@
         <description><![CDATA[Brit Brunch]]></description>
         <link>http://britbrunch.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Oct 2015 18:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2015 18:03:43 GMT</lastBuildDate>
         <atom:link href="http://britbrunch.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beehive Cafe]]></title>
+            <description><![CDATA[<h1>Beehive Cafe</h1>]]></description>
+            <link>http://britbrunch.com/beehive-cafe/index.html</link>
+            <guid isPermaLink="false">b8bb74b8-3111-40ff-83b5-9d668c6f0657</guid>
+            <pubDate>Sun, 18 Oct 2015 18:03:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When in England]]></title>
             <description><![CDATA[<article><h1>When in England</h1><p>Who needs brunch when you can have a delicious roast, complete with Yorkshire puddings and roast beef.</p></article>]]></description>
