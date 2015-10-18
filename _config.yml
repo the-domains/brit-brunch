@@ -1,36 +1,23 @@
-title: a Brit who Brunches
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-color:
-  saturation: 0.8620071
-  brandStrength: 0
-  lightness: 0.7616488
-  brandColors: []
-  rhythmicContrast: 0.4032258
+name: Brit Brunch
+favicon: null
+layout_spectrum: 0.75528
+typography_spectrum: null
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Brit Brunch
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.6738351
-layout_spectrum: 0.6899642
+color:
+  brandColors: []
+  brandStrength: null
+  lightness: null
+  saturation: null
+  rhythmicContrast: null
+purpose: []
