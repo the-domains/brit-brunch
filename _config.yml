@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: A B
+title: 'A Brit '
 cta:
   domain: null
   bucket: null
