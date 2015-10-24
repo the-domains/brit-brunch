@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'A Brit '
+title: A Brit Who Brunches
 cta:
   domain: null
   bucket: null
