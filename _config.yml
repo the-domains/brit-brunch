@@ -33,7 +33,7 @@ color:
     - '#B41814'
     - '#889199'
     - '#000417'
-  brandStrength: 0.9375
+  brandStrength: 1
   lightness: null
   saturation: null
   rhythmicContrast: null
