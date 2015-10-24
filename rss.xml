@@ -4,8 +4,15 @@
         <description><![CDATA[A Brit Who Brunches]]></description>
         <link>http://britbrunch.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 16:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 16:27:39 GMT</lastBuildDate>
         <atom:link href="http://britbrunch.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Burger & Barrel]]></title>
+            <description><![CDATA[<article><h1>Burger & Barrel</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65965d2d-6fb3-4b9c-a5ca-1037783cadec.jpg"></article>]]></description>
+            <link>http://britbrunch.com/burger-and-barrel/index.html</link>
+            <guid isPermaLink="false">c72ff382-0f2e-4e63-93e1-4d319fd39d33</guid>
+            <pubDate>Sat, 24 Oct 2015 16:27:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tørst]]></title>
             <description><![CDATA[<article><h1>Tørst</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7c6c58a-1a86-4486-b8ab-4dfb5652cdb0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://britbrunch.com/shanghai-dumplings/index.html</link>
             <guid isPermaLink="false">59de984e-1ddf-4241-8f80-5dadc5f480c0</guid>
             <pubDate>Sun, 18 Oct 2015 00:09:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2af0a36-79dc-41d9-accf-6deb8f0ce109.jpg">]]></description>
-            <link>http://britbrunch.com/25e57264-dec9-4a7d-a3cd-564b5c0a5f17/index.html</link>
-            <guid isPermaLink="false">25e57264-dec9-4a7d-a3cd-564b5c0a5f17</guid>
-            <pubDate>Sun, 18 Oct 2015 00:04:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
