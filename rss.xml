@@ -4,8 +4,15 @@
         <description><![CDATA[A Brit Who Brunches]]></description>
         <link>http://britbrunch.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 16:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 16:24:25 GMT</lastBuildDate>
         <atom:link href="http://britbrunch.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Egg]]></title>
+            <description><![CDATA[<article><h1>Egg</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8aee6832-6e11-49ff-80e0-ca557eeb4aeb.jpg"></article>]]></description>
+            <link>http://britbrunch.com/egg/index.html</link>
+            <guid isPermaLink="false">c3e264be-857e-49a2-b4ec-db291449be06</guid>
+            <pubDate>Sat, 24 Oct 2015 16:23:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Black Seed Bagel]]></title>
             <description><![CDATA[<article><h1>Black Seed Bagel</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60614b72-ada7-419d-8685-2e42d4ecaca5.jpg"></article>]]></description>
