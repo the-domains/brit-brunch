@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Brit Brunch]]></title>
-        <description><![CDATA[Brit Brunch]]></description>
+        <title><![CDATA[A Brit Who Brunches]]></title>
+        <description><![CDATA[A Brit Who Brunches]]></description>
         <link>http://britbrunch.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 15:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 16:00:19 GMT</lastBuildDate>
         <atom:link href="http://britbrunch.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[For when you don't want to brunch]]></title>
+            <description><![CDATA[<article><h1>For when you don't want to brunch</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24c34c37-54eb-4f50-bff1-53b60e2228a9.jpg"></article>]]></description>
+            <link>http://britbrunch.com/for-when-you-dont-want-to-brunch/index.html</link>
+            <guid isPermaLink="false">2a8febff-a391-4966-abfc-779b293f8ef8</guid>
+            <pubDate>Sat, 24 Oct 2015 15:59:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beehive Cafe]]></title>
             <description><![CDATA[<article><h1>Beehive Cafe</h1><p>Shrimp and grits from this Texan home-food cafe. Also of note are the customizable chicken biscuits - pretty daring to be pushing this kind of fare a block away from Pies and Thighs!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/561a1511-75ec-456d-8210-a24878b2f0d3.jpg"></article>]]></description>
