@@ -4,8 +4,15 @@
         <description><![CDATA[A Brit Who Brunches]]></description>
         <link>http://britbrunch.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 16:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 16:35:23 GMT</lastBuildDate>
         <atom:link href="http://britbrunch.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shake Shack]]></title>
+            <description><![CDATA[<article><h1>Shake Shack</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a721f3b-df5d-4e05-84ba-8772761dffe1.jpg"></article>]]></description>
+            <link>http://britbrunch.com/shake-shack/index.html</link>
+            <guid isPermaLink="false">89497cb3-f17e-4ed3-9663-f5f7fb476d20</guid>
+            <pubDate>Sat, 24 Oct 2015 16:33:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mile End]]></title>
             <description><![CDATA[<article><h1>Mile End</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13b64cc4-4a8f-4a98-9dbe-5361615c64dd.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://britbrunch.com/beehive-cafe/index.html</link>
             <guid isPermaLink="false">b8bb74b8-3111-40ff-83b5-9d668c6f0657</guid>
             <pubDate>Sat, 24 Oct 2015 15:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When in England]]></title>
-            <description><![CDATA[<article><h1>When in England</h1><p>Who needs brunch when you can have a delicious roast, complete with Yorkshire puddings and roast beef.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d48effc-ca90-4013-8f16-62625d3e309b.jpg"></article>]]></description>
-            <link>http://britbrunch.com/when-in-england/index.html</link>
-            <guid isPermaLink="false">7085cfb0-dd9a-4551-a1af-418e393c710b</guid>
-            <pubDate>Sat, 24 Oct 2015 15:43:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
