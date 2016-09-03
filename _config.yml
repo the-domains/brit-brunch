@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.7741935
   brandStrength: 0.3125
@@ -22,16 +22,16 @@ color:
     - '#B41814'
     - '#889199'
     - '#000417'
-  rhythmicContrast: 0.5985663
-cta:
-  bucket: null
-  version: null
-  domain: null
+  rhythmicContrast: 0.5089605
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: Brit Brunch
 opengraph:
   image: null
